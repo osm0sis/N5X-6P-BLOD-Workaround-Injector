@@ -7,6 +7,7 @@ properties() { '
 kernel.string=N5X/6P BLOD Workaround Injector Add-on
 do.devicecheck=1
 do.modules=0
+do.systemless=1
 do.cleanup=1
 do.cleanuponabort=1
 device.name1=bullhead
