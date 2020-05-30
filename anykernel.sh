@@ -18,6 +18,7 @@ device.name2=angler
 block=/dev/block/platform/soc.0/f9824900.sdhci/by-name/boot;
 is_slot_device=0;
 ramdisk_compression=auto;
+no_block_display=1;
 
 
 ## AnyKernel methods (DO NOT CHANGE)
